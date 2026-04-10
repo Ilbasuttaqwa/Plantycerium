@@ -59,7 +59,7 @@ export const Services = [
 export const Portfolios = [
   {
     id: "asd1293uasdads1",
-    title: "Overviewwwww",
+    title: "Overview",
     imageUrl: Recruiting,
     type: "Mobile Apps",
     responsibility: ["Mobile Development", "UI/UX Design"],
